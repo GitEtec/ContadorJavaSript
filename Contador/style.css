@@ -1,0 +1,46 @@
+header {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background: rgb(68, 219, 68);
+    font: normal 15pt Arial;
+        
+}
+div#dados{
+    text-align: center;
+    padding: 8px;
+}
+div#res{
+    text-align: center;
+    padding: 5px;
+}
+.tam{
+    margin: 15px;
+    height: 30px;
+    
+}
+section {
+    /*backgroud - cor do fundo
+    border-radius - bordas arredondadas 
+    paddin - distancia entre o conteudo e a borda
+    width - largura
+    margin: auto; - centralizar
+     */
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.363);
+}
+
+footer {
+    /*text-align:center; - centralizar o texto
+    color - cor da fonte*/
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
